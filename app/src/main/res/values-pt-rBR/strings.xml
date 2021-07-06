@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notícias</string>
+    <string name="theme_mode">Modo do Tema</string>
+    <string name="search">Buscar</string>
+    <string name="nothing_here">Nada aqui, por favor aguarde...</string>
+    <string name="choose_your_theme">Escolha o seu Tema</string>
+    <string name="light">Claro</string>
+    <string name="dark">Escuro</string>
+    <string name="text_not_found">Texto Não Encontardo</string>
+
+    <string name="download_image">Baixar Imgem</string>
+    <string name="download_image_message">Deseja baixar esta imagem?</string>
+
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+
+    <string name="download_failed">Falha ao baixar, por favor tente novamente</string>
+    <string name="paused">Pausado</string>
+    <string name="peding">Pendente</string>
+    <string name="downloading">Baixando...</string>
+    <string name="download_successfully">"Imagem baixada com sucesso em "</string>
+    <string name="theres_nothing_download">Não há nada para baixar</string>
+    <string name="link_not_found">Link não encontrado para compartilhar</string>
+</resources>

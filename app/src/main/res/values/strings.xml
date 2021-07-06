@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="theme_mode">Theme Mode</string>
+    <string name="search">Search</string>
+    <string name="nothing_here">Nothing here, please waiting...</string>
+    <string name="choose_your_theme">Choose your Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="text_not_found">Text Not Found</string>
+
+    <string name="download_image">Download Image</string>
+    <string name="download_image_message">Do you want download this image?</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="download_failed">Download has been failed, please try again</string>
+    <string name="paused">Paused</string>
+    <string name="peding">Pending</string>
+    <string name="downloading">Downloading...</string>
+    <string name="download_successfully">Image downloaded successfully in </string>
+    <string name="theres_nothing_download">Theres nothing to download</string>
+
+    <string name="link_not_found">Link not found to share</string>
+
+</resources>
